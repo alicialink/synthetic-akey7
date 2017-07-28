@@ -3,7 +3,8 @@ import numpy as np
 from scipy.io.wavfile import write
 
 # Properties of the wav
-sps = 44100
+sps = 44100    # DON'T change
+
 carrier_hz = 440.0
 modulator_hz = 0.25
 ac = 1.0
