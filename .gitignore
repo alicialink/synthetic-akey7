@@ -99,3 +99,6 @@ ENV/
 
 # No need for dynamic HTML
 *.html
+
+# No need to store the WAV files that are made
+*.wav
